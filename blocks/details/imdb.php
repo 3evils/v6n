@@ -20,7 +20,7 @@ if (in_array($torrents['category'], $INSTALLER09['tv_cats'])) {
     if ($tvmaze_info) $HTMLOUT.= tr($lang['details_tvrage'], $tvmaze_info, 1);
 }
 //== end tvmaze
-if ((in_array($torrents['category'], $INSTALLER09['movie_cats'])) && $torrents['url'] != '') {
+/*if ((in_array($torrents['category'], $INSTALLER09['movie_cats'])) && $torrents['url'] != '') {
 $IMDB = new IMDB($torrents['url']);
     $country =($IMDB->getCountry());
     $country = explode("/",$country);
@@ -96,4 +96,95 @@ if (empty($tvmaze_info) && empty($imdb) && in_array($torrents['category'], array
 $HTMLOUT.= "</table>
      </div><!-- closig col md 12 -->
      </div><!-- closing row -->";
+*/
+////////////OMDB & TMDB by Antimidas and Tundracanine 2018-2019
+include_once(CACHE_DIR . 'api_keys.php');
+if($INSTALLER09['omdb_on'] == 1) {
+    $O_url = trim($torrents['url']);
+    $thenumbers = ltrim(strrchr($O_url, 'tt'), 'tt');
+    $thenumbers = ($thenumbers[strlen($thenumbers) - 1] == "/" ? substr($thenumbers, 0, strlen($thenumbers) - 1) : $thenumbers);
+    $thenumbers = preg_replace("[^A-Za-z0-9]", "", $thenumbers);
+    $id_imdb = $thenumbers;
+
+    $rem = file_get_contents("https://www.omdbapi.com/?i=tt" . $id_imdb . "&plot=full&tomatoes=True&r=json&apikey=" . $INSTALLER09['omdb_key']."");
+    $omdb = json_decode($rem, true);
+    //foreach ($omdb['Ratings'] as $rat => $rate);
+    if($torrents['poster'] == '') {
+        if ($omdb['Poster'] != "N/A") {
+            if (!file_exists(BITBUCKET_DIR ."poster/" . $id_imdb . ".jpg")) {
+                @copy($omdb['Poster'], (BITBUCKET_DIR ."poster/" . $id_imdb . ".jpg"));
+                $poster = "/bucket/poster/" . $id_imdb . ".jpg";
+            } else {
+                $poster = "/bucket/poster/" . $id_imdb . ".jpg";
+            }
+
+        } else {
+            if ($omdb['Poster'] == "N/A") {
+                $poster = "";
+            }
+        }
+        sql_query("UPDATE torrents SET poster = " . sqlesc($poster) . " WHERE id = $id LIMIT 1") or sqlerr(__file__, __line__);
+    }
+///////////TMDB Trailer scrape//////////////
+    if($torrents['youtube'] == '') {
+        if ($INSTALLER09['tmdb_on'] == 1 ) {
+            $json = file_get_contents("https://api.themoviedb.org/3/movie/tt" . $id_imdb . "/videos?api_key=". $INSTALLER09['tmdb_key']."");
+            $tmdb = json_decode($json, true);
+            foreach ($tmdb['results'] as $key => $test) {
+                $yt = $test['key'];
+                $trailer = 'https://www.youtube.com/embed/' . $yt . '';
+            }
+            sql_query("UPDATE torrents SET youtube = " . sqlesc($trailer) . " WHERE id = $id LIMIT 1") or sqlerr(__file__, __line__);
+        }
+    }
+
+
+    if ($omdb['Title'] != '') {
+        $HTMLOUT .= "<div class='imdb_info' style='width: 80%; display: table;''><tr><th class=' col-md-1 text-center'>
+	        </th><div style='width:90%;margin-left:20%;'><th class=' col-md-5 text-left'>
+            <strong><font color='#79c5c5'>Title:</font></strong><font style='font-size:24px;' color='white'> " . $omdb['Title'] . "</font><br/>
+            <strong><font color='#79c5c5'>Released:</font></strong><font color='grey'> " . $omdb['Released'] . "</font><br/>
+            <strong><font color='#79c5c5'>Genre:</font></strong><font color='grey'> " . $omdb['Genre'] . "</font><br/>
+	        <strong><font color='#79c5c5'>Rated:</font></strong><font color='grey'> " . $omdb['Rated'] . "</font><br/>
+	        <strong><font color='#79c5c5'>Director:</font></strong><font color='grey'> " . $omdb['Director'] . "</font><br/>
+	        <strong><font color='#79c5c5'>Cast:</font></strong><font color='grey'> " . $omdb['Actors'] . "</font><br/>
+	        <strong><font color='#79c5c5'>Studio:</font></strong><font color='grey'> " . $omdb['Production'] . "</font><br/>
+	        <strong><font color='#79c5c5'>Description:</font></strong><font color='grey'> " . $omdb['Plot'] . "</font><br/>
+            <strong><font color='#79c5c5'>Runtime:</font></strong><font color='grey'> " . $omdb['Runtime'] . "</font><br/>
+            <strong><font color='#79c5c5'>IMDB Rating:</font></strong><span color='white'> " . $omdb['imdbRating'] . "</span><span style='color:grey;'>&nbspfrom&nbsp&nbsp</span><span color='white'>".$omdb['imdbVotes']."</span><span style='color:grey;'>&nbspVotes</span><br/><br/>
+            </div></div>";
+
+        /*if (empty($torrents["poster"]) or ($torrents["poster"] == "./pic/nopostermov.jpg") && $omdb['Poster'] != "./pic/nopostermov.jpg") {
+            sql_query("UPDATE torrents SET poster = " . sqlesc($omdb['Poster']) . " WHERE id = $id LIMIT 1") or sqlerr(__file__, __line__);
+            $torrents["poster"] = $omdb['Poster'];
+            $torrent_cache['poster'] = $omdb['Poster'];
+            if ($torrent_cache) {
+                $mc1->update_row(false, $torrent_cache);
+                $mc1->commit_transaction($INSTALLER09['expires']['torrent_details']);
+                $mc1->delete_value('top5_tor_');
+                $mc1->delete_value('last5_tor_');
+                $mc1->delete_value('scroll_tor_');
+            }
+        }*/
+
+    }
+}
+if (!empty($torrents['youtube'])) {
+    $HTMLOUT .= "<div class='row' style='background-color:rgba(0,0,0,0);;'>
+            <div class='col-md-12'><h3 class='text-center'><strong><font color='#79c5c5'>Trailer </font></strong><span style='font-size:12px;'>(Some videos may be unavailable in your region)</span></h3><br>";
+    $HTMLOUT .= "<div><iframe style='margin-left:13%;text-align:center;justify-content:center;' id=\"ytplayer\" type=\"text/html\" width=\"75%\" height=\"450px\" src=\"{$torrents['youtube']}\" frameborder=\"0\"></iframe></div></td></tr>";
+}else if (!empty($yt)) {
+    $HTMLOUT .= "<div class='row' style='background-color:rgba(0,0,0,0);;'>
+            <div class='col-md-12'><h3 class='text-center'><strong><font color='#79c5c5'>Trailer </font></strong><span style='font-size:12px;'>(Some videos may be unavailable in your region)</span></h3><br>";
+    $HTMLOUT .= "<div><iframe style='margin-left:13%;text-align:center;justify-content:center;' id=\"ytplayer\" type=\"text/html\" width=\"75%\" height=\"450px\" src=\"$trailer\" frameborder=\"0\"></iframe></div></td></tr>";
+} else  {
+    $HTMLOUT.= "<tr><td>No youtube data found</td></tr>";
+}
+
+
+$d_name = ($omdb['Title'] . " (". $omdb['Year'] . ")");
+sql_query("UPDATE torrents SET name = " . sqlesc($d_name) . " WHERE id = $id LIMIT 1") or sqlerr(__file__, __line__);
+
+
+
 ?>
