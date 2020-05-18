@@ -1,0 +1,201 @@
+
+===================================================
+ Date: Wed, 15 Apr 2020 23:27:48 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/blocks/userdetails/connectable.php on line 24
+ URL:/userdetails.php?id=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 15 Apr 2020 23:29:46 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/blocks/userdetails/snatched_block.php on line 64
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 15 Apr 2020 23:32:11 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.fid' in 'field list'
+ IP Address: 5.81.45.1
+ in file /var/www/html/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 15 Apr 2020 23:32:14 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.fid' in 'field list'
+ IP Address: 5.81.45.1
+ in file /var/www/html/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 15 Apr 2020 23:32:24 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.fid' in 'field list'
+ IP Address: 5.81.45.1
+ in file /var/www/html/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 15 Apr 2020 23:32:25 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.fid' in 'field list'
+ IP Address: 5.81.45.1
+ in file /var/www/html/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 15 Apr 2020 23:44:35 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [15]
+===================================================
+ Date: Wed, 29 Apr 2020 12:18:26 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 202.144.201.163
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=9
+ Username: Satan[2158]
+===================================================
+ Date: Wed, 29 Apr 2020 12:45:42 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 185.220.102.8
+ in file /var/www/html1/include/cleanup/inactive_update.php on line 32
+ URL:/
+ Username: []
+===================================================
+ Date: Wed, 29 Apr 2020 19:08:25 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 86.132.251.175
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 29 Apr 2020 19:09:40 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 213.233.108.139
+ in file /var/www/html1/include/cleanup/karma_update.php on line 55
+ URL:/auto_shout_scroll.php
+ Username: Otniel[2160]
+===================================================
+ Date: Wed, 29 Apr 2020 19:38:31 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 86.132.251.175
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 29 Apr 2020 19:39:43 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 78.87.84.204
+ in file /var/www/html1/include/cleanup/karma_update.php on line 55
+ URL:/auto_shout_scroll_get.php
+ Username: stonebreath[850]
+===================================================
+ Date: Wed, 29 Apr 2020 20:09:40 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.65.181.238
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 29 Apr 2020 20:11:06 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.65.181.238
+ in file /var/www/html1/include/cleanup/karma_update.php on line 55
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 29 Apr 2020 20:50:37 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 162.243.137.169
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/
+ Username: []
+===================================================
+ Date: Wed, 29 Apr 2020 20:55:31 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.65.181.238
+ in file /var/www/html1/include/cleanup/karma_update.php on line 55
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 29 Apr 2020 21:25:35 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.65.181.238
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 29 Apr 2020 21:25:49 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.65.181.238
+ in file /var/www/html1/include/cleanup/karma_update.php on line 55
+ URL:/auto_shout_scroll.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 29 Apr 2020 21:56:16 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 86.132.251.175
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Wed, 29 Apr 2020 21:56:20 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 73.79.231.18
+ in file /var/www/html1/include/cleanup/karma_update.php on line 55
+ URL:/auto_shout_scroll_get.php
+ Username: antimidas[1823]
+===================================================
+ Date: Wed, 29 Apr 2020 22:26:20 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 2.100.186.13
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/index.php
+ Username: swizzles[30]
+===================================================
+ Date: Wed, 29 Apr 2020 22:56:52 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 73.79.231.18
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: antimidas[1823]
+===================================================
+ Date: Wed, 29 Apr 2020 23:26:58 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 73.79.231.30
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Wed, 29 Apr 2020 23:58:21 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 86.132.251.175
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]

@@ -1,0 +1,25 @@
+
+===================================================
+ Date: Thu, 07 May 2020 13:23:22 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 86.165.56.28
+ in file /var/www/html1/include/cleanup/inactive_update.php on line 32
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Thu, 07 May 2020 14:28:34 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 90.191.51.229
+ in file /var/www/html1/uploadapp.php on line 42
+ URL:/uploadapp.php
+ Username: Cybertron[2164]
+===================================================
+ Date: Thu, 07 May 2020 14:28:38 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 90.191.51.229
+ in file /var/www/html1/uploadapp.php on line 42
+ URL:/uploadapp.php
+ Username: Cybertron[2164]

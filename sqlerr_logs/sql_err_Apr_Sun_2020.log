@@ -1,0 +1,1569 @@
+
+===================================================
+ Date: Sun, 12 Apr 2020 14:26:06 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '>= first AND  <= last' at line 1
+ IP Address: 5.252.68.13
+ in file /var/www/html/admin/usersearch.php on line 765
+ URL:/staffpanel.php?tool=usersearch
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 12 Apr 2020 14:26:09 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '>= first AND  <= last' at line 1
+ IP Address: 5.252.68.13
+ in file /var/www/html/admin/usersearch.php on line 765
+ URL:/staffpanel.php?tool=usersearch&action=usersearch
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 12 Apr 2020 17:25:05 +0100
+ Error Number: 1406
+ Error: Data too long for column 'subject' at row 1
+ IP Address: 86.136.75.253
+ in file /var/www/html/take_invite_signup.php on line 135
+ URL:/take_invite_signup.php
+ Username: []
+===================================================
+ Date: Sun, 12 Apr 2020 17:30:58 +0100
+ Error Number: 1062
+ Error: Duplicate entry 'Mcko' for key 'username'
+ IP Address: 86.136.75.253
+ in file /var/www/html/take_invite_signup.php on line 124
+ URL:/take_invite_signup.php
+ Username: []
+===================================================
+ Date: Sun, 12 Apr 2020 17:32:59 +0100
+ Error Number: 1062
+ Error: Duplicate entry 'Mcko' for key 'username'
+ IP Address: 86.136.75.253
+ in file /var/www/html/take_invite_signup.php on line 124
+ URL:/take_invite_signup.php
+ Username: []
+===================================================
+ Date: Sun, 12 Apr 2020 17:41:35 +0100
+ Error Number: 1062
+ Error: Duplicate entry 'Mcko' for key 'username'
+ IP Address: 86.136.75.253
+ in file /var/www/html/take_invite_signup.php on line 124
+ URL:/take_invite_signup.php
+ Username: []
+===================================================
+ Date: Sun, 12 Apr 2020 17:54:59 +0100
+ Error Number: 1366
+ Error: Incorrect integer value: 'System' for column `u232`.`messages`.`sender` at row 1
+ IP Address: 86.136.75.253
+ in file /var/www/html/takelogin.php on line 91
+ URL:/takelogin.php
+ Username: []
+===================================================
+ Date: Sun, 19 Apr 2020 00:02:54 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 00:21:16 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/testredis.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 00:33:00 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 00:52:48 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/testredis.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 01:03:01 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/testredis.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 01:23:10 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 01:33:09 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 01:53:16 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 02:03:18 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 02:23:22 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 02:33:24 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 02:53:28 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 03:03:30 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 03:25:00 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 03:35:02 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 03:55:06 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 04:06:34 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 04:26:38 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 04:38:06 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 04:56:44 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 09:01:24 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 09:03:16 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 09:31:56 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 09:33:40 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 10:02:02 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 10:06:20 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 10:32:08 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 10:36:26 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 11:02:14 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 11:07:58 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 11:32:20 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 11:38:04 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 12:03:29 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 12:08:10 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 12:33:39 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 12:38:16 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 13:05:30 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 13:08:49 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 13:36:54 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 13:39:46 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 14:08:26 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 14:15:36 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 14:39:03 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 14:45:52 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 15:09:30 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 15:16:35 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 15:41:56 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 15:47:25 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 16:12:38 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 16:18:18 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 16:43:48 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 16:49:29 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 17:15:00 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 17:20:40 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 17:45:44 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 17:51:28 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 18:17:20 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 18:23:00 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 18:48:30 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 18:54:10 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 19:09:07 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/inactive_update.php on line 32
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 19:20:35 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 19:20:44 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 10' at line 1
+ IP Address: 5.81.45.1
+ in file /var/www/html/forums/view_topic.php on line 333
+ URL:/forums.php?action=viewtopic&topicid=25&page=last
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 19:26:05 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 19:39:21 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/rating.php on line 30
+ URL:/rating.php?id=26&rate=5&ref=%2Fforums.php%3Faction%3Dviewtopic%26topicid%3D26%26page%3Dlast&what=topic
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 19:52:01 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 19:56:29 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 20:09:13 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 20' at line 1
+ IP Address: 5.81.45.1
+ in file /var/www/html/forums/view.php on line 87
+ URL:/forums.php?action=viewforum&forumid=3
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 20:09:15 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 20' at line 1
+ IP Address: 5.81.45.1
+ in file /var/www/html/forums/view.php on line 87
+ URL:/forums.php?action=viewforum&forumid=3
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 20:10:32 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 20' at line 1
+ IP Address: 5.81.45.1
+ in file /var/www/html/forums/view.php on line 87
+ URL:/forums.php?action=viewforum&forumid=3
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 20:10:33 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 20' at line 1
+ IP Address: 5.81.45.1
+ in file /var/www/html/forums/view.php on line 87
+ URL:/forums.php?action=viewforum&forumid=3
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 20:22:11 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 173.72.133.41
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: antimidas[1823]
+===================================================
+ Date: Sun, 19 Apr 2020 20:26:54 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 20:52:42 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 20:57:43 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 21:23:31 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 21:27:49 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 21:54:20 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 21:58:38 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 22:24:38 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 22:28:53 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 22:55:48 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 23:00:03 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 19 Apr 2020 23:26:04 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 23:30:22 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 19 Apr 2020 23:56:10 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 11:57:44 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_peers' doesn't exist
+ IP Address: 31.50.61.240
+ in file 319 on line /var/www/html1/templates/1/template.php
+ URL:/index.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 11:57:54 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_peers' doesn't exist
+ IP Address: 31.50.61.240
+ in file 319 on line /var/www/html1/templates/1/template.php
+ URL:/index.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 11:58:48 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/index.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 11:58:48 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 11:58:48 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/freeuser_update.php on line 57
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 12:03:41 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/inactive_update.php on line 32
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 12:09:34 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/birthday_update.php on line 49
+ URL:/auto_shout_scroll.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 12:14:09 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 31.50.61.240
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=280
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 12:21:25 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 31.50.61.240
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=4&uploaded=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 12:29:35 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 12:29:35 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 12:41:44 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/peerlist_xbt.php on line 88
+ URL:/peerlist_xbt.php?id=4
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 13:00:38 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 51.81.253.197
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/index.php
+ Username: []
+===================================================
+ Date: Sun, 26 Apr 2020 13:00:40 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 51.81.253.197
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/index.php
+ Username: []
+===================================================
+ Date: Sun, 26 Apr 2020 13:05:02 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 46.246.65.180
+ in file /var/www/html1/include/cleanup/freeuser_update.php on line 57
+ URL:/
+ Username: []
+===================================================
+ Date: Sun, 26 Apr 2020 13:31:05 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 13:31:26 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 78.87.84.204
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: stonebreath[850]
+===================================================
+ Date: Sun, 26 Apr 2020 13:52:36 +0100
+ Error Number: 1054
+ Error: Unknown column 'connectable' in 'field list'
+ IP Address: 31.50.61.240
+ in file 319 on line /var/www/html1/templates/1/template.php
+ URL:/
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 13:52:36 +0100
+ Error Number: 1054
+ Error: Unknown column 'connectable' in 'field list'
+ IP Address: 31.50.61.240
+ in file 319 on line /var/www/html1/templates/1/template.php
+ URL:/
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 13:52:37 +0100
+ Error Number: 1054
+ Error: Unknown column 'connectable' in 'field list'
+ IP Address: 31.50.61.240
+ in file 319 on line /var/www/html1/templates/1/template.php
+ URL:/
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 13:52:38 +0100
+ Error Number: 1054
+ Error: Unknown column 'connectable' in 'field list'
+ IP Address: 31.50.61.240
+ in file 319 on line /var/www/html1/templates/1/template.php
+ URL:/
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:05:00 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:05:01 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:19:22 +0100
+ Error Number: 1054
+ Error: Unknown column 'connectable' in 'field list'
+ IP Address: 31.50.61.240
+ in file 319 on line /var/www/html1/templates/1/template.php
+ URL:/index.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:26:12 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.leechtime' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/peerlist_xbt.php on line 88
+ URL:/peerlist_xbt.php?id=4
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:26:55 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.leechtime' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/peerlist_xbt.php on line 88
+ URL:/peerlist_xbt.php?id=4
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:35:05 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:36:40 +0100
+ Error Number: 1054
+ Error: Unknown column 'xbt_peers.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/completed.php on line 26
+ URL:/userdetails.php?id=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:38:45 +0100
+ Error Number: 1054
+ Error: Unknown column 'xbt_peers.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/completed.php on line 26
+ URL:/userdetails.php?id=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:38:46 +0100
+ Error Number: 1054
+ Error: Unknown column 'xbt_peers.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/completed.php on line 26
+ URL:/userdetails.php?id=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:39:47 +0100
+ Error Number: 1054
+ Error: Unknown column 'xbt_peers.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/completed.php on line 26
+ URL:/userdetails.php?id=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:41:19 +0100
+ Error Number: 1054
+ Error: Unknown column 'xbt_peers.hit_and_run' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/completed.php on line 26
+ URL:/userdetails.php?id=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:42:05 +0100
+ Error Number: 1054
+ Error: Unknown column 'connectable' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/connectable.php on line 24
+ URL:/userdetails.php?id=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:43:45 +0100
+ Error Number: 1054
+ Error: Unknown column 'connectable' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/connectable.php on line 24
+ URL:/userdetails.php?id=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:43:45 +0100
+ Error Number: 1054
+ Error: Unknown column 'connectable' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/connectable.php on line 24
+ URL:/userdetails.php?id=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:44:56 +0100
+ Error Number: 1054
+ Error: Unknown column 'connectable' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/connectable.php on line 24
+ URL:/userdetails.php?id=850
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:46:48 +0100
+ Error Number: 1054
+ Error: Unknown column 'connectable' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/connectable.php on line 24
+ URL:/userdetails.php?id=850
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:46:49 +0100
+ Error Number: 1054
+ Error: Unknown column 'connectable' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/connectable.php on line 24
+ URL:/userdetails.php?id=850
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:51:49 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:53:17 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:53:40 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:53:41 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:53:41 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:53:41 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:53:42 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:54:49 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:54:49 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:54:56 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:56:09 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:56:56 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:56:56 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:56:57 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:56:57 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:57:14 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:57:15 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:57:15 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:57:23 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:57:24 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:57:24 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:57:24 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:57:24 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 14:57:24 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 15:02:35 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 15:02:36 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 15:02:36 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 15:02:37 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 15:04:35 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.started' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/blocks/userdetails/snatched_staff.php on line 82
+ URL:/userdetails.php?id=1&action=snatched
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 15:05:06 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 15:32:48 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.leechtime' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/peerlist_xbt.php on line 88
+ URL:/peerlist_xbt.php?id=4
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 15:32:52 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.leechtime' in 'field list'
+ IP Address: 31.50.61.240
+ in file /var/www/html1/peerlist_xbt.php on line 88
+ URL:/peerlist_xbt.php?id=4
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 15:35:08 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 16:05:46 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 16:06:21 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 31.50.61.240
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=5&uploaded=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 16:13:57 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 31.50.61.240
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=6&uploaded=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 16:19:54 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 31.50.61.240
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=7&uploaded=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 16:35:54 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 17:06:11 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 2.100.186.13
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: swizzles[30]
+===================================================
+ Date: Sun, 26 Apr 2020 17:36:17 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 2.100.186.13
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: swizzles[30]
+===================================================
+ Date: Sun, 26 Apr 2020 17:51:18 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/hitrun_xbt_update.php on line 28
+ URL:/staffpanel.php?tool=cleanup_manager&action=cleanup_manager&mode=run&cid=80
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 17:51:20 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/hitrun_xbt_update.php on line 28
+ URL:/staffpanel.php?tool=cleanup_manager&action=cleanup_manager&mode=run&cid=80
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 18:06:17 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 26 Apr 2020 18:07:53 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 31.50.61.240
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=8
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 18:07:57 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 31.50.61.240
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=280
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 18:36:24 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 2.100.186.13
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: swizzles[30]
+===================================================
+ Date: Sun, 26 Apr 2020 19:06:30 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 2.100.186.13
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: swizzles[30]
+===================================================
+ Date: Sun, 26 Apr 2020 19:36:35 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sun, 26 Apr 2020 19:54:48 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 2.100.186.13
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=8&uploaded=1
+ Username: swizzles[30]
+===================================================
+ Date: Sun, 26 Apr 2020 20:07:15 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 73.79.229.122
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sun, 26 Apr 2020 20:14:42 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 31.50.61.240
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=9&uploaded=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 20:14:48 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 31.50.61.240
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=9&uploaded=1
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 20:14:53 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 31.50.61.240
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=9
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 20:37:26 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/index.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 21:07:26 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 73.79.228.170
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sun, 26 Apr 2020 21:37:39 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 26 Apr 2020 21:48:21 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 2.100.186.13
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=3&hit=1
+ Username: swizzles[30]
+===================================================
+ Date: Sun, 26 Apr 2020 21:48:25 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 2.100.186.13
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=3&hit=1
+ Username: swizzles[30]
+===================================================
+ Date: Sun, 26 Apr 2020 21:48:27 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 2.100.186.13
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=3&hit=1
+ Username: swizzles[30]
+===================================================
+ Date: Sun, 26 Apr 2020 21:48:57 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 2.100.186.13
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=6&hit=1
+ Username: swizzles[30]
+===================================================
+ Date: Sun, 26 Apr 2020 21:48:59 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 2.100.186.13
+ in file /var/www/html1/details.php on line 143
+ URL:/details.php?id=6&hit=1
+ Username: swizzles[30]
+===================================================
+ Date: Sun, 26 Apr 2020 22:07:40 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 2.100.186.13
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: swizzles[30]
+===================================================
+ Date: Sun, 26 Apr 2020 22:37:46 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 2.100.186.13
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: swizzles[30]
+===================================================
+ Date: Sun, 26 Apr 2020 23:08:49 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: rooter[2154]
+===================================================
+ Date: Sun, 26 Apr 2020 23:39:59 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 31.50.61.240
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: rooter[2154]

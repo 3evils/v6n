@@ -1,0 +1,25 @@
+
+===================================================
+ Date: Sun, 03 May 2020 12:55:37 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 81.132.187.81
+ in file /var/www/html1/include/cleanup/inactive_update.php on line 32
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sun, 03 May 2020 15:18:49 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 85.73.66.25
+ in file /var/www/html1/uploadapp.php on line 42
+ URL:/uploadapp.php
+ Username: bolero2004[2161]
+===================================================
+ Date: Sun, 03 May 2020 15:18:56 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 85.73.66.25
+ in file /var/www/html1/uploadapp.php on line 42
+ URL:/uploadapp.php
+ Username: bolero2004[2161]

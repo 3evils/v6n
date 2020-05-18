@@ -1,0 +1,73 @@
+
+===================================================
+ Date: Mon, 27 Apr 2020 22:05:50 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 2.100.186.13
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: swizzles[30]
+===================================================
+ Date: Mon, 27 Apr 2020 22:21:25 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1
+ IP Address: 86.132.21.156
+ in file /var/www/html1/takeedit_userblocks.php on line 28
+ URL:/takeedit_userblocks.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Mon, 27 Apr 2020 22:28:40 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1
+ IP Address: 86.132.21.156
+ in file /var/www/html1/takeedit_userblocks.php on line 28
+ URL:/takeedit_userblocks.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Mon, 27 Apr 2020 22:35:56 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 2.100.186.13
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: swizzles[30]
+===================================================
+ Date: Mon, 27 Apr 2020 23:06:37 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 86.132.21.156
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Mon, 27 Apr 2020 23:26:54 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1
+ IP Address: 86.132.21.156
+ in file /var/www/html1/takeedit_userblocks.php on line 28
+ URL:/takeedit_userblocks.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Mon, 27 Apr 2020 23:26:55 +0100
+ Error Number: 1064
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1
+ IP Address: 86.132.21.156
+ in file /var/www/html1/takeedit_userblocks.php on line 28
+ URL:/takeedit_userblocks.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Mon, 27 Apr 2020 23:37:21 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 86.132.21.156
+ in file /var/www/html1/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Mon, 27 Apr 2020 23:52:20 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 200.52.22.155
+ in file /var/www/html1/uploadapp.php on line 42
+ URL:/uploadapp.php
+ Username: doritz[2157]

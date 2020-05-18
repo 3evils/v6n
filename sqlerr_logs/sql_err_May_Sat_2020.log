@@ -1,0 +1,153 @@
+
+===================================================
+ Date: Sat, 02 May 2020 00:21:14 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 81.132.187.81
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 02 May 2020 00:51:20 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 81.132.187.81
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 02 May 2020 01:21:21 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 81.132.187.81
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 02 May 2020 01:52:58 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 81.132.187.81
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 02 May 2020 02:24:30 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 81.132.187.81
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 02 May 2020 02:54:36 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 81.132.187.81
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 02 May 2020 03:26:11 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 81.132.187.81
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 02 May 2020 03:39:09 +0100
+ Error Number: 1054
+ Error: Unknown column 'x.leechtime' in 'field list'
+ IP Address: 81.132.187.81
+ in file /var/www/html1/peerlist_xbt.php on line 88
+ URL:/peerlist_xbt.php?id=3
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 02 May 2020 03:57:10 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 81.132.187.81
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 02 May 2020 04:51:50 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 188.126.73.71
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/
+ Username: []
+===================================================
+ Date: Sat, 02 May 2020 05:36:42 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 176.107.187.151
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/index.php
+ Username: []
+===================================================
+ Date: Sat, 02 May 2020 07:33:36 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 93.75.38.205
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/index.php
+ Username: []
+===================================================
+ Date: Sat, 02 May 2020 08:32:33 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 185.220.100.253
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/
+ Username: []
+===================================================
+ Date: Sat, 02 May 2020 09:02:41 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 94.155.33.191
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/
+ Username: []
+===================================================
+ Date: Sat, 02 May 2020 09:34:00 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 81.132.187.81
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 02 May 2020 10:06:53 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 81.132.187.81
+ in file /var/www/html1/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 02 May 2020 12:22:00 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 81.132.187.81
+ in file /var/www/html1/peerlist_xbt.php on line 88
+ URL:/peerlist_xbt.php?id=4
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 02 May 2020 12:55:32 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 194.35.233.22
+ in file /var/www/html1/include/cleanup/inactive_update.php on line 32
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 09 May 2020 16:06:53 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 46.103.213.98
+ in file /var/www/html1/include/cleanup/inactive_update.php on line 32
+ URL:/index.php
+ Username: stonebreath[850]

@@ -1,0 +1,50 @@
+
+===================================================
+ Date: Sun, 10 May 2020 12:30:14 +0100
+ Error Number: 1690
+ Error: BIGINT UNSIGNED value is out of range in '`u232`.`torrents`.`leechers` - 1'
+ IP Address: 86.165.56.28
+ in file /var/www/html1/announce.php on line 516
+ URL:/announce.php?torrent_pass=00000001f9e1bbe7fe497b4e76ce65e5&info_hash=w%3c%afm%cb%94%ba%86MR%a4%ae%3b%11%91Q%10s%b3x&peer_id=-UT2200-%1fZ%25%f2%d7%be%f3%f4%c6xW%2f&port=59316&uploaded=0&downloaded=0&left=0&corrupt=0&key=04791ABA&numwant=200&compact=1&no_peer_id=1&ipv6=2a00%3a23c8%3a1d8a%3a5f01%3a41e5%3ab3%3ac14e%3ab5e0
+===================================================
+ Date: Sun, 10 May 2020 13:00:13 +0100
+ Error Number: 1690
+ Error: BIGINT UNSIGNED value is out of range in '`u232`.`torrents`.`leechers` - 1'
+ IP Address: 86.165.56.28
+ in file /var/www/html1/announce.php on line 516
+ URL:/announce.php?torrent_pass=00000001f9e1bbe7fe497b4e76ce65e5&info_hash=%96%bef%08y8%8621%a4%ef%00%1c%3cQ%2b%db%cd%f0d&peer_id=-UT2200-%1fZ%25%f2%d7%be%f3%f4%c6xW%2f&port=59316&uploaded=0&downloaded=0&left=0&corrupt=0&key=04791ABA&numwant=200&compact=1&no_peer_id=1&ipv6=2a00%3a23c8%3a1d8a%3a5f01%3a41e5%3ab3%3ac14e%3ab5e0
+===================================================
+ Date: Sun, 10 May 2020 13:30:14 +0100
+ Error Number: 1690
+ Error: BIGINT UNSIGNED value is out of range in '`u232`.`torrents`.`leechers` - 1'
+ IP Address: 86.165.56.28
+ in file /var/www/html1/announce.php on line 516
+ URL:/announce.php?torrent_pass=00000001f9e1bbe7fe497b4e76ce65e5&info_hash=w%3c%afm%cb%94%ba%86MR%a4%ae%3b%11%91Q%10s%b3x&peer_id=-UT2200-%1fZ%25%f2%d7%be%f3%f4%c6xW%2f&port=59316&uploaded=0&downloaded=0&left=0&corrupt=0&key=04791ABA&numwant=200&compact=1&no_peer_id=1&ipv6=2a00%3a23c8%3a1d8a%3a5f01%3a41e5%3ab3%3ac14e%3ab5e0
+===================================================
+ Date: Sun, 10 May 2020 14:00:15 +0100
+ Error Number: 1690
+ Error: BIGINT UNSIGNED value is out of range in '`u232`.`torrents`.`leechers` - 1'
+ IP Address: 86.165.56.28
+ in file /var/www/html1/announce.php on line 516
+ URL:/announce.php?torrent_pass=00000001f9e1bbe7fe497b4e76ce65e5&info_hash=%96%bef%08y8%8621%a4%ef%00%1c%3cQ%2b%db%cd%f0d&peer_id=-UT2200-%1fZ%25%f2%d7%be%f3%f4%c6xW%2f&port=59316&uploaded=0&downloaded=0&left=0&corrupt=0&key=04791ABA&numwant=200&compact=1&no_peer_id=1&ipv6=2a00%3a23c8%3a1d8a%3a5f01%3a41e5%3ab3%3ac14e%3ab5e0
+===================================================
+ Date: Sun, 10 May 2020 14:30:16 +0100
+ Error Number: 1690
+ Error: BIGINT UNSIGNED value is out of range in '`u232`.`torrents`.`leechers` - 1'
+ IP Address: 86.165.56.28
+ in file /var/www/html1/announce.php on line 516
+ URL:/announce.php?torrent_pass=00000001f9e1bbe7fe497b4e76ce65e5&info_hash=%96%bef%08y8%8621%a4%ef%00%1c%3cQ%2b%db%cd%f0d&peer_id=-UT2200-%1fZ%25%f2%d7%be%f3%f4%c6xW%2f&port=59316&uploaded=0&downloaded=0&left=0&corrupt=0&key=04791ABA&numwant=200&compact=1&no_peer_id=1&ipv6=2a00%3a23c8%3a1d8a%3a5f01%3a41e5%3ab3%3ac14e%3ab5e0
+===================================================
+ Date: Sun, 10 May 2020 14:55:33 +0100
+ Error Number: 1690
+ Error: BIGINT UNSIGNED value is out of range in '`u232`.`torrents`.`leechers` - 1'
+ IP Address: 86.165.56.28
+ in file /var/www/html1/announce.php on line 516
+ URL:/announce.php?torrent_pass=00000001f9e1bbe7fe497b4e76ce65e5&info_hash=%96%bef%08y8%8621%a4%ef%00%1c%3cQ%2b%db%cd%f0d&peer_id=-UT2200-%1fZ%25%f2%d7%be%f3%f4%c6xW%2f&port=59316&uploaded=0&downloaded=0&left=0&corrupt=0&key=04791ABA&event=stopped&numwant=0&compact=1&no_peer_id=1
+===================================================
+ Date: Sun, 10 May 2020 19:30:07 +0100
+ Error Number: 1690
+ Error: BIGINT UNSIGNED value is out of range in '`u232`.`torrents`.`seeders` - 1'
+ IP Address: 86.135.131.120
+ in file /var/www/html1/announce.php on line 514
+ URL:/announce.php?torrent_pass=00000001f9e1bbe7fe497b4e76ce65e5&info_hash=%8b%fc%fe%d2%9bqAW%0a%bd%d9%d3%04%24%a8%1ckR%adu&peer_id=-UT2200-%1fZ%8cFF%02%06%d1%23%2b%0f%23&port=59316&uploaded=0&downloaded=0&left=0&corrupt=0&key=7C3D9921&event=stopped&numwant=0&compact=1&no_peer_id=1

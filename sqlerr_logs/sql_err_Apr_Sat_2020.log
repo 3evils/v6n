@@ -1,0 +1,489 @@
+
+===================================================
+ Date: Sat, 18 Apr 2020 00:14:34 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [15]
+===================================================
+ Date: Sat, 18 Apr 2020 00:45:45 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [15]
+===================================================
+ Date: Sat, 18 Apr 2020 09:02:23 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [15]
+===================================================
+ Date: Sat, 18 Apr 2020 09:34:37 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 10:09:14 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [15]
+===================================================
+ Date: Sat, 18 Apr 2020 10:40:35 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [15]
+===================================================
+ Date: Sat, 18 Apr 2020 11:12:00 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [15]
+===================================================
+ Date: Sat, 18 Apr 2020 11:43:18 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [15]
+===================================================
+ Date: Sat, 18 Apr 2020 12:00:09 +0100
+ Error Number: 1406
+ Error: Data too long for column 'editsecret' at row 1
+ IP Address: 5.81.45.1
+ in file /var/www/html/takesignup.php on line 120
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 12:07:17 +0100
+ Error Number: 1406
+ Error: Data too long for column 'editsecret' at row 1
+ IP Address: 5.81.45.1
+ in file /var/www/html/takesignup.php on line 120
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 12:09:33 +0100
+ Error Number: 1406
+ Error: Data too long for column 'editsecret' at row 1
+ IP Address: 5.81.45.1
+ in file /var/www/html/takesignup.php on line 120
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 12:14:23 +0100
+ Error Number: 1406
+ Error: Data too long for column 'editsecret' at row 1
+ IP Address: 5.81.45.1
+ in file /var/www/html/takesignup.php on line 120
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 12:14:32 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/staffpanel.php?tool=memcache&op=1
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 12:30:26 +0100
+ Error Number: 1406
+ Error: Data too long for column 'editsecret' at row 1
+ IP Address: 5.81.45.1
+ in file /var/www/html/takesignup.php on line 120
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 12:36:26 +0100
+ Error Number: 1406
+ Error: Data too long for column 'editsecret' at row 1
+ IP Address: 5.81.45.1
+ in file /var/www/html/takesignup.php on line 120
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 12:45:52 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 13:15:55 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 13:46:39 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 14:17:04 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 14:48:14 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 15:21:29 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 15:53:12 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 16:12:03 +0100
+ Error Number: 1364
+ Error: Field 'secret' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 16:23:31 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 16:42:09 +0100
+ Error Number: 1364
+ Error: Field 'secret' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 16:43:25 +0100
+ Error Number: 1364
+ Error: Field 'post_history' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/class/class_check.php on line 135
+ URL:/staffpanel.php?tool=news&mode=news
+ Username: darkalchemy [3]
+===================================================
+ Date: Sat, 18 Apr 2020 16:53:37 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 17:12:15 +0100
+ Error Number: 1364
+ Error: Field 'secret' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 17:23:43 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 17:42:16 +0100
+ Error Number: 1364
+ Error: Field 'secret' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 17:53:49 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 18:12:23 +0100
+ Error Number: 1364
+ Error: Field 'secret' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 18:19:32 +0100
+ Error Number: 1364
+ Error: Field 'last_login' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/takesignup.php on line 120
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 18:21:29 +0100
+ Error Number: 1364
+ Error: Field 'torrent_pass_version' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/takesignup.php on line 120
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 18:22:08 +0100
+ Error Number: 1364
+ Error: Field 'wait_time' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/takesignup.php on line 120
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 18:23:06 +0100
+ Error Number: 1062
+ Error: Duplicate entry 'iseeyoucopy' for key 'username'
+ IP Address: 5.81.45.1
+ in file /var/www/html/takesignup.php on line 132
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 18:24:05 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 18:42:32 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 18:55:03 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 19:07:57 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/inactive_update.php on line 32
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 19:13:45 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 94.12.217.250
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 19:27:56 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/index.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 19:46:19 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 19:59:04 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 20:13:48 +0100
+ Error Number: 1062
+ Error: Duplicate entry 'antimidas' for key 'username'
+ IP Address: 173.72.133.41
+ in file /var/www/html/takesignup.php on line 120
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 20:17:01 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 20:29:13 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 20:47:20 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 20:59:34 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 21:18:30 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 21:19:23 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/birthday_update.php on line 49
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 21:32:17 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 21:49:29 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 22:02:27 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: []
+===================================================
+ Date: Sat, 18 Apr 2020 22:19:51 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 22:32:44 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 22:49:56 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sat, 18 Apr 2020 23:02:45 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sat, 18 Apr 2020 23:20:35 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/testredis.php
+ Username: iseeyoucopy[1]
+===================================================
+ Date: Sat, 18 Apr 2020 23:32:48 +0100
+ Error Number: 1146
+ Error: Table 'u232.xbt_files_users' doesn't exist
+ IP Address: 45.22.64.111
+ in file /var/www/html/include/cleanup/karma_update.php on line 33
+ URL:/auto_shout_scroll_get.php
+ Username: darkalchemy [3]
+===================================================
+ Date: Sat, 18 Apr 2020 23:51:02 +0100
+ Error Number: 1364
+ Error: Field 'added' doesn't have a default value
+ IP Address: 5.81.45.1
+ in file /var/www/html/include/cleanup/irc_update.php on line 50
+ URL:/auto_shout_scroll_get.php
+ Username: iseeyoucopy[1]

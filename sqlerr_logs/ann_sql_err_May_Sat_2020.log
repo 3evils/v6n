@@ -1,0 +1,15 @@
+
+===================================================
+ Date: Sat, 09 May 2020 23:47:05 +0100
+ Error Number: 1690
+ Error: BIGINT UNSIGNED value is out of range in '`u232`.`torrents`.`seeders` - 1'
+ IP Address: 86.165.56.28
+ in file /var/www/html1/announce.php on line 514
+ URL:/announce.php?torrent_pass=00000001f9e1bbe7fe497b4e76ce65e5&info_hash=w%3c%afm%cb%94%ba%86MR%a4%ae%3b%11%91Q%10s%b3x&peer_id=-UT2200-%1fZ%25%f2%d7%be%f3%f4%c6xW%2f&port=59316&uploaded=0&downloaded=0&left=0&corrupt=0&key=04791ABA&event=stopped&numwant=0&compact=1&no_peer_id=1
+===================================================
+ Date: Sat, 09 May 2020 23:47:05 +0100
+ Error Number: 1690
+ Error: BIGINT UNSIGNED value is out of range in '`u232`.`torrents`.`seeders` - 1'
+ IP Address: 86.165.56.28
+ in file /var/www/html1/announce.php on line 514
+ URL:/announce.php?torrent_pass=00000001f9e1bbe7fe497b4e76ce65e5&info_hash=%96%bef%08y8%8621%a4%ef%00%1c%3cQ%2b%db%cd%f0d&peer_id=-UT2200-%1fZ%25%f2%d7%be%f3%f4%c6xW%2f&port=59316&uploaded=0&downloaded=0&left=0&corrupt=0&key=04791ABA&event=stopped&numwant=0&compact=1&no_peer_id=1
